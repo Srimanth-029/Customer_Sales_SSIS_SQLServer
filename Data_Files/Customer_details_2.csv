@@ -1,0 +1,41 @@
+Customer ID;Customer Name;Segment;Postal Code
+SF-20065;Sandra Flanagan;Supplier;19140
+EB-13870;Emily Burns;Supplier;84057
+EH-13945;Eric Hoffmann;Supplier;90049
+TB-21520;Tracy Blumstein;Supplier;19140
+MA-17560;Matt Abelman;Developer;77095
+GH-14485;Gene Hale;Corporate;75080
+SN-20710;Steve Nguyen;Home Office;77041
+LC-16930;Linda Cazamias;Corporate;60540
+RA-19885;Ruben Ausman;Corporate;90049
+ES-14080;Erin Smith;Supplier;32935
+ON-18715;Odella Nelson;Supplier;55122
+PO-18865;Patrick O'Donnell;Supplier;48185
+LH-16900;Lena Hernandez;Outlet Legal Entity;19901
+DP-13000;Darren Powers;Outlet Legal Entity;47150
+JM-15265;Janet Molinari;Outlet Legal Entity;10024
+TB-21055;Ted Butterfield;Outlet Legal Entity;12180
+KM-16720;Kunst Miller;Outlet Legal Entity;90004
+PS-18970;Paul Stevenson;Home Office;60610
+BS-11590;Brendan Sweed;Corporate;85234
+KD-16270;Karen Daniels;Outlet Legal Entity;22153
+HM-14980;Henry MacAllister;Outlet Legal Entity;10009
+TB-21520;Tracy Blumstein;Consumer;49201
+JE-15745;Joel Eaton;Retailer;38109
+KB-16600;Ken Brennan;Retailer;77041
+JE-15745;Joel Eaton;Retailer;77070
+SC-20770;Stewart Carmichael;Corporate;35601
+DN-13690;Duane Noonan;Consumer;94122
+JC-16105;Julie Creighton;Corporate;27707
+CS-12400;Christopher Schild;Home Office;60623
+PO-18865;Patrick O'Donnell;Retailer;29203
+PG-18895;Paul Gonzalez;Retailer;55901
+GM-14455;Gary Mitchum;Retailer;77095
+JS-15685;Jim Sink;Retailer;90036
+KB-16315;Karl Braun;Retailer;55407
+RB-19705;Roger Barcio;Home Office;97206
+RX-178655;Nitish ;Retailer;55407
+RX-178656;Vijay ;Retailer;77095
+RX-1786555;Nitish ;Retailer;77095
+RX-178655;Michael ;Retailer;77095
+RX-178695;Martin ;Retailer;77070
